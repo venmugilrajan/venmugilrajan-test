@@ -121,14 +121,14 @@ I'm a Computer Science and Engineering student from Erode, Tamil Nadu, who is ge
 <p align="center">
   <img
     height="170"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=venmugilrajan&show_icons=true&theme=tokyonight&border_radius=20&hide_border=false&include_all_commits=true&rank_icon=percentile"
+    src="https://github-readme-stats.vercel.app/api?username=venmugilrajan&show_icons=true&theme=tokyonight&border_radius=20&hide_border=false&include_all_commits=true&rank_icon=percentile&count_private=true"
   />
 </p>
 
 <p align="center">
   <img
     height="170"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=venmugilrajan&layout=compact&theme=tokyonight&border_radius=20&hide_border=false"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=venmugilrajan&layout=compact&theme=tokyonight&border_radius=20&hide_border=false"
   />
 </p>
 
