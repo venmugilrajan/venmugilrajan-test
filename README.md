@@ -7,7 +7,7 @@
 </p>
 
 <h3 align="center">
-  Computer Science and Engineering Student | Aspiring Software Developer 
+  Computer Science and Engineering Student | Aspiring Software Developer
 </h3>
 
 <p align="center">
